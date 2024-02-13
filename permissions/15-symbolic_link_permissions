@@ -1,0 +1,3 @@
+#!/bin/bash
+chown _hello:_hello vincent:staff
+
